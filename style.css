@@ -104,6 +104,9 @@ main{
     font-size: 50px;
     font-weight: bold;
 }
+.gallary h2{
+    color: green;
+}
 .gallary p{
     font-size: 20px;
 }
@@ -165,6 +168,7 @@ main{
      .top-banner{
          display: grid;
          grid-template-columns: repeat(1,1fr);
+         height: 100%;
      }
      .banner{
          width: 100%;
